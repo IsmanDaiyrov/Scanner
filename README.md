@@ -8,9 +8,9 @@ Please see Report.pdf for more information
 
 The .txt file will be located in the same folder as the java file. Be sure to download JDK to run the executable.
 ```bash
-to access: C:\Users\Your_Drive\Desktop\Project1>
+to access: C:/Users/Your_Drive/Desktop/Project1>
 
-to run: C:\Users\ Your_Drive\Desktop\Project1>java project
+to run: C:/Users/Your_Drive/Desktop/Project1/src/com/company/Main.java>
 ```
 If the output is incorrect, please check the file name in the code
 
