@@ -2,7 +2,7 @@
 
 The scanner is a project written on Java that uses the DFA (Deterministic Finite Automaton) as the basis for designing and implementing the scanner. The program has a scan function that scans an input file for valid and invalid tokens. If the token is valid the scan function returns the token type, otherwise returns an error flag.
 
-Please see Report.pdf for more information
+Please see Report.pdf for more information.
 
 ## How to compile the source code
 
@@ -36,7 +36,7 @@ Example Output:
 ```
 
 ## Prepared by
-Miguel Cruz, Isman Daiyrov and Minoshun Renganathan
+Miguel Cruz, Isman Daiyrov and Minoshun Renganathan.
 
 ## Acknowledgement
 Thanks to Peter Adamopoulos and Zanxiang Wang for useful discussions.
